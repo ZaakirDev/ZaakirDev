@@ -18,7 +18,7 @@
   <a href="https://twitter.com/zaakirdev" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaakirdev" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/zaakirfazlan" target="_blank">
+  <a href="https://www.linkedin.com/in/zaakir-fazlan-710082293/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaakir fazlan" height="30" width="40" />
   </a>
   <a href="https://instagram.com/z44k1r" target="_blank">
