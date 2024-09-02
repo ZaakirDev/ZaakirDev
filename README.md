@@ -80,20 +80,3 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
   </a>
 </p>
-
-<h2 align="center">More about me :)</h2>
-<p align="center">
-  I started out learning a bit of Scratch in school... I wasn't so fascinated to be honest, but I was kind of forced to do more since I was apparently pretty good at it. Eventually, I wanted to learn a real coding language. I wanted to be like those hackers on TV 📺💻. So my mom set me up for a course on Python 🐍. Ever since then, I've been practicing little projects. To be honest, I didn't really get that far. Although at one point, I started to diversify. Mainly because I thought Python was lame 🥱. I thought that making a video game would be cooler 🎮, so I did just that. I made video games. I honestly loved it ❤️ but then came a time where I started to think about the market 📈. I was then introduced to the startup community 🚀. I read about people on the internet who started 6 to 7 figure businesses and dreamed of getting there one fine day 💭💸. I also realized the true value of this power of coding to uplift myself in the hereafter 🌟.
-</p>
-
-<p align="center">
-  I know a lot of people who read this may not be Muslims, but to be honest, I feel like the best way I can maximize the value of this skill is to create something that will help me and others as well to get to Jannah 🕌. Like they say: "Scratch your own itches." I realized that my inability to create and maintain habits is what limited me from becoming a better Muslim. That is why I'm starting <strong>Key2Jannah</strong> 🌟, an app that gamifies the creation of Islamic habits by rewarding you with fun badges 🏅 and giving you reminders to do something worthy of Allah's pleasure every single day 🌙.
-</p>
-
-<p align="center">
-  I hope to see you stick with me for the journey 😁👨‍💻✨
-</p>
-
-<p align="center">
-  <strong>Assalamualaikum warahmatullahi wabarakatuhu</strong>
-</p>
