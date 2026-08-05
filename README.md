@@ -1,12 +1,8 @@
 # Hi! I'm Zaakir!
 
 ```
-self taught Indie Hacker 🏄‍♂️
+Jobless prospective student 😔
 ```
-
-I'm an Indie Hacker that loves solving problems through code. I build tiny startup projects in hopes of one day stumbling across a **unicorn** idea.
-
-> You are a problem solver. Not a developer. There's a difference. - My dad (Thanks dad 😁)
 
 ## My expertise lies in:
 
